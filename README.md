@@ -12,4 +12,6 @@ Currently working on some new things and tools for AI agents.
 
 ![chenkl112's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenkl112&theme=onedark)
 
+![Commit times in UTC+8](assets/commit-time.svg)
+
 </details>
