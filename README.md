@@ -2,7 +2,7 @@
 
 I'm chenzy. I build things with code and share them here.
 
-Currently working on robot navigation and tools for AI agents.
+Currently working on some new things and tools for AI agents.
 
 <details>
 <summary>⚡️ More about my coding life</summary>
