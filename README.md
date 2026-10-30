@@ -1,6 +1,6 @@
 ### Hi there ~ 👋
 
-I'm chenkl. I build things with code and share them here.
+I'm chenzy. I build things with code and share them here.
 
 Currently working on robot navigation and tools for AI agents.
 
